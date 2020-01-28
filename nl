@@ -8,7 +8,6 @@ ArRe,The Arizona Republic,2,99,99,1,99,99
 UsTo,USA Today network,2,99,99,1,99,99
 CiEn,Cincinnati Enquirer,2,99,99,1,99,99
 NYT,The New York Times,2,99,99,1,99,99
-WaPo,The Washington Post,2,99,99,1,99,99
 ClBa,Clare Baldwin,1,2,99,1,1,4
 AnMa,Andrew R.C. Marshall,1,1,52,1,3,4
 MaMo,Manuel Mogato,1,1,99,1,3,4
